@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "The Joys of Web Development",
+        "shortDescription": "A brief overview of the exciting world of web development and its endless possibilities.",
+        "thumbnail": "https://via.placeholder.com/400x250/007bff/ffffff?text=Web+Dev",
+        "fullContent": "<p>Web development is a vast and ever-evolving field. It encompasses everything from designing beautiful user interfaces to building robust backend systems. The joy comes from seeing your ideas come to life on the internet, accessible to anyone, anywhere.</p><p>Learning web development can be challenging, but incredibly rewarding. There are numerous resources available, from online tutorials to comprehensive bootcamps. The key is to keep practicing and building projects.</p>"
+    },
+    {
+        "id": 2,
+        "title": "Mastering JavaScript Fundamentals",
+        "shortDescription": "Dive deep into the core concepts of JavaScript, the language of the web.",
+        "thumbnail": "https://via.placeholder.com/400x250/28a745/ffffff?text=JavaScript",
+        "fullContent": "<p>JavaScript is an essential language for any web developer. Understanding its fundamentals is crucial for building interactive and dynamic web applications. Topics like closures, prototypes, and asynchronous JavaScript often pose challenges, but mastering them opens up a world of possibilities.</p><p>Practice is key when it comes to JavaScript. Try solving small coding challenges, building mini-projects, and contributing to open-source initiatives to solidify your understanding.</p>"
+    },
+    {
+        "id": 3,
+        "title": "CSS Tips and Tricks",
+        "shortDescription": "Discover useful CSS techniques to make your websites visually appealing and responsive.",
+        "thumbnail": "https://via.placeholder.com/400x250/dc3545/ffffff?text=CSS+Tips",
+        "fullContent": "<p>CSS is what gives your website its style and beauty. Beyond the basics, there are many advanced techniques that can significantly improve your designs. Flexbox and Grid are modern layout modules that make responsive design much easier.</p><p>Animation and transitions can add a professional touch to your website, making it more engaging for users. Experiment with different properties and values to create unique visual effects.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Understanding React Hooks",
+        "shortDescription": "A practical guide to using React Hooks for managing state and side effects in functional components.",
+        "thumbnail": "https://via.placeholder.com/400x250/ffc107/333333?text=React+Hooks",
+        "fullContent": "<p>React Hooks revolutionized the way we write React components, allowing us to use state and other React features without writing a class. `useState` and `useEffect` are the most commonly used hooks, enabling functional components to manage their own state and perform side effects like data fetching.</p><p>Other hooks like `useContext`, `useReducer`, and `useRef` provide more specialized functionalities, helping to build complex and maintainable React applications. Understanding the rules of hooks is essential to avoid common pitfalls.</p>"
+    }
+]
